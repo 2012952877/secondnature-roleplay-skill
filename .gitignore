@@ -1,0 +1,9 @@
+node_modules/
+.work/
+playwright/.auth/
+.env
+.env.*
+*.wav
+*.webm
+*.jsonl
+verified-progress*.json
